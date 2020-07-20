@@ -1,11 +1,8 @@
 /*--WIFI Connection--*/
 #include <ESP8266WiFi.h>
 
-//#define WIFI_SSID "Andreas telefoon"
-//#define WIFI_PASSWORD "annie123"
-
-#define WIFI_SSID "Huize Koninck"
-#define WIFI_PASSWORD "anno1833"
+define WIFI_SSID "SECRET"
+define WIFI_PASSWORD "SECRET"
 
 /*--Firebase Connection--*/
 #include <FirebaseESP8266.h>
